@@ -9,15 +9,17 @@
   }
 
 #item1 h3{
-	font-size:50px;
+	font-size:80px;
 	font-weight: bold;
+	text-transform: uppercase;
 }
 #item1 p{
 	font-size: 25px;
 	font-weight:700;
+	text-transform: uppercase;
 }
 #item1{
-	color:#f9ff21;
+	color::#dc3545;
 	letter-spacing: 10px;
 }
 
